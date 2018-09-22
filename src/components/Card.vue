@@ -4,7 +4,7 @@
       <div class="card">
         <img class="card-img-top img-fluid" src="https://images.unsplash.com/photo-1453365607868-7deed8cc7d26?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=" alt="Card image cap">
         <div class="card-block">
-          <h4 class="card-title">111Card title that wraps to a new line</h4>
+          <h4 class="card-title">Card title that wraps to a new line</h4>
           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
         </div>
       </div>
