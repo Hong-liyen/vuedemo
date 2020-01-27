@@ -1,0 +1,71 @@
+
+// .path-breadcrumb {
+//   position: fixed;
+//   top: 0;
+//   width: 100%;
+//   padding: 10px 0;
+//   display: flex;
+//   justify-content: space-around;
+//   align-items: center;
+//   background-color: rgba(4, 2, 39, 0.7);
+//   color: #fff;
+//   font-size: 1.2rem;
+//   z-index: 10;
+//   @include breakpoint($pad, false) {
+//     background-color: rgba(4, 2, 39, 1);
+//     position: relative;        
+//   }
+//   .logo {
+//     img {
+//       max-width: 120px;
+//     }
+//   }
+//   .menu {
+//     @include breakpoint($pad, false) {
+//       position: absolute;
+//       left: 0;
+//       top: 80px;
+//       width: 100%;
+//       background-color: #181a48;
+//       border-top: 1px solid #fff; 
+//       z-index: 10;
+//     }
+//     a {
+//       text-decoration: none;
+//       color: #fff;
+//       padding: 0 10px;
+//       transition: .5s;
+//       &:hover {
+//         color: rgba(255,255,255,.7);
+//       }
+//       @include breakpoint($pad, false) {
+//         padding: 1.4rem;
+//         text-align: center;
+//         display: block;
+//       }
+//     }
+//   }
+//   .icon {
+//     img {
+//       padding: 8px;
+//       background: #eee;
+//       width: 20px;
+//       border-radius: 100%;
+//       display: none;
+//       cursor: pointer;
+//       @include breakpoint($pad, false) {
+//         display: block;
+//       }
+//     }
+//   }
+//   .navbar {
+//     img {
+//       color: #fff;
+//       max-width: 60px;
+//     }
+//   }
+// }
+
+// .is-color {
+//   background-color: rgba(4, 2, 39, 1);
+// }

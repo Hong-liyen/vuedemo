@@ -1,0 +1,23 @@
+.cooperation {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  text-align: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+.cooperation .join {
+  border: 1px solid #ff6d00;
+  background-color: #ffa800;
+  color: #fff;
+  font-size: 1.2em;
+  width: 12%;
+  padding: 12px 0;
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
